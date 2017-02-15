@@ -2,15 +2,15 @@
 
 1. Introduction:
 
-1..  Need for collaborative publishing.
+  1.  Need for collaborative publishing.
   
-11.   Weaknesses of alternative publishing methods.
+  1.   Weaknesses of alternative publishing methods.
 
-11.   Fit with smart contracts, with P2P (identity), and with legal codification.
+  1.   Fit with smart contracts, with P2P (identity), and with legal codification.
 
-   Governance goals. 
+  1. Governance goals. 
 
-   No liability.  Review carefully (you can) the source of information, motivations and competence of authors, etc.
+   1. No liability.  Review carefully (you can) the source of information, motivations and competence of authors, etc.
 
 1. Publishing Legal on Github:
 
