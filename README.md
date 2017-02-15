@@ -30,7 +30,7 @@
 
   1.  Installing locally
   
-  1.Show your Own - Hosting via Heroku
+  1. Show your Own - Hosting via Heroku
 
 1.  Naming Schemes and Document Best Practices
 
