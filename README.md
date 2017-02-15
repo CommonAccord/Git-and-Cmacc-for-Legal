@@ -10,32 +10,31 @@
 
   1. Governance goals. 
 
-   1. No liability.  Review carefully (you can) the source of information, motivations and competence of authors, etc.
+   1. No liability.  Review carefully the source of information (git preserves provenance), motivations and competence of authors, etc.
 
 1. Publishing Legal on Github:
 
-## Posting a document or other material.
+  1. Posting a document or other material.
 
-## Improving existing materials:
+  1. Improving existing materials:
 
-### git-based forking merging, pull requests, 
+     1. git-based forking merging, pull requests, 
 
-### overlays inclusions 
+     1. overlays inclusions 
 
-## Reuse: copyright, respect, moral rights
+     1. Reuse: copyright, respect, moral rights
 
-# Running
+1. Running a Cmacc instance
 
-## Cloning a running core of Primavera's code. 
+  1. Cloning a running core of Primavera's code. 
 
-## Installing locally
+  1.  Installing locally
+  
+  1.Show your Own - Hosting via Heroku
 
-## Show your Own - Hosting via Heroku
+1.  Naming Schemes and Document Best Practices
 
-
-# Naming Schemes and Document Best Practices
-
-See other doc ==>>
+  # See other doc ==>>
 
 
 
