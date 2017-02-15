@@ -2,11 +2,11 @@
 
 1. Introduction:
 
-1.#   Need for collaborative publishing.
+11.  Need for collaborative publishing.
   
-   Weaknesses of alternative publishing methods.
+11.   Weaknesses of alternative publishing methods.
 
-   Fit with smart contracts, with P2P (identity), and with legal codification.
+11.   Fit with smart contracts, with P2P (identity), and with legal codification.
 
    Governance goals. 
 
