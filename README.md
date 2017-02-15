@@ -2,7 +2,7 @@
 
 1. Introduction:
 
-   Need for collaborative publishing.
+1.#   Need for collaborative publishing.
   
    Weaknesses of alternative publishing methods.
 
