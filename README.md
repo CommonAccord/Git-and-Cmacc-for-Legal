@@ -10,8 +10,7 @@
 
    Governance goals. 
 
-No liability.  Review carefully (you can) the source of information, motivations and competence of authors, etc.
-
+   No liability.  Review carefully (you can) the source of information, motivations and competence of authors, etc.
 
 1. Publishing Legal on Github:
 
