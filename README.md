@@ -26,7 +26,7 @@
 
 1. Running a Cmacc instance
 
-  1. Cloning a running core of Primavera's code. 
+  1. Cloning an instance of Primavera's code. 
 
   1.  Installing locally
   
