@@ -1,6 +1,6 @@
 # Git-and-Cmacc-for-Legal
 
-#Introduction:
+1. Introduction:
 
    Need for collaborative publishing.
   
@@ -13,7 +13,7 @@
 No liability.  Review carefully (you can) the source of information, motivations and competence of authors, etc.
 
 
-# Publishing Legal on Github:
+1. Publishing Legal on Github:
 
 ## Posting a document or other material.
 
