@@ -26,13 +26,13 @@
 
      1. git-based forking merging, pull requests, 
 
-     1. overlays inclusions 
+     1. extensions by linking 
 
      1. Reuse: copyright, respect, moral rights
      
 1. Using Cmacc materials
 
-  *  Copy a document or text and paste into your own documents.
+  *  Copy a document or text and paste into your own document.
   
   *  Create a term sheet and reference a document on one of our sites by URL.  But also note the "commit" number (on GitHub) so that there will be certainty about the version.
   
