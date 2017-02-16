@@ -42,6 +42,8 @@
 
   1. Cloning an instance of Primavera's code. https://github.com/commonaccord/cmacc-app
 
+  1.  Adding the document objects that you want.
+  
   1. Installing locally
   
   1. Hosting via Heroku
