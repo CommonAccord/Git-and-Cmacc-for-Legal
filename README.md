@@ -2,7 +2,7 @@
 
 1. Introduction:
 
-  1.  Need for collaborative publishing for legal is very strong
+  1.  Strong advantages of collaborative publishing for legal documents
   
     * Same iterative improvements as for software (many eye balls, experience, etc.)
     
