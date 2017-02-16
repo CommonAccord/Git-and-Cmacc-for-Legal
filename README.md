@@ -36,11 +36,13 @@
   
   *  Create a term sheet and reference a document by URL.  But also note the "commit" number (from GitHub) so that there will be certainty about the version.
   
-  *  Make an instance - see the next item.
+  *  Make an instance - see the next heading.
   
     * Clone the materials into your instance, and/or
     
     * Use URL links to materials hosted on GitHub or elsewhere using the =[?http://raw.github.com... ] convention ( see, e.g. http://source.commonaccord.org/index.php?action=source&file=S/Sandbox/Form/Form-Agt-FR-Demo.md)
+    
+   * Integrate with a transacting system - payment, blockchain, Enterprise Contract Management, etc.
 
 1. Running a Cmacc instance
 
