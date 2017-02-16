@@ -24,9 +24,9 @@
 
   1. Improving existing materials:
 
-     1. git-based forking merging, pull requests, 
+     1. extensions by Cmacc links 
 
-     1. extensions by linking 
+     1. git-based forking, merging, pull requests, 
 
      1. Reuse: copyright, respect, moral rights
      
@@ -34,9 +34,13 @@
 
   *  Copy a document or text and paste into your own document.
   
-  *  Create a term sheet and reference a document on one of our sites by URL.  But also note the "commit" number (on GitHub) so that there will be certainty about the version.
+  *  Create a term sheet and reference a document by URL.  But also note the "commit" number (from GitHub) so that there will be certainty about the version.
   
-  *  Run an instance - see the next item.
+  *  Make an instance - see the next item.
+  
+    * Clone the materials into your instance, and/or
+    
+    * Use URL links to materials hosted on GitHub or elsewhere using the =[?http://raw.github.com... ] convention ( see, e.g. http://source.commonaccord.org/index.php?action=source&file=S/Sandbox/Form/Form-Agt-FR-Demo.md)
 
 1. Running a Cmacc instance
 
