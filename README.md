@@ -2,13 +2,19 @@
 
 1. Introduction:
 
-  1.  Need for collaborative publishing.
+  1.  Need for collaborative publishing for legal is very strong
   
-  1.   Weaknesses of alternative publishing methods.
+    * Same iterative improvements as for software (many eye balls, experience, etc.)
+    
+    * Plus: legal is non-deterministic - re-use is how we increase predictability
+  
+  1.   Weaknesses of alternative publishing methods
+  
+    *  Word processing ping-pong; document assembly; standards bodies; legislation
 
-  1.   Fit with smart contracts, with P2P (identity), and with legal codification.
+  1.   Fit with smart contracts, with P2P (identity), with blockchains, with IoT, and with legal codification
 
-  1. Governance goals. 
+  1. Governance goals 
 
    1. No liability.  Review carefully the source of information (git preserves provenance), motivations and competence of authors, etc.
 
